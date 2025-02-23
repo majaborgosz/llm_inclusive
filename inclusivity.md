@@ -2,30 +2,31 @@
 ## What is inclusive language?
 Inclusive language is communication that avoids bias, slang, and expressions that discriminate against people based on characteristics such as gender, race, ability, age, or other identities. It promotes clarity, respect, and accessibility, ensuring that all users feel acknowledged and valued.
 
-## Why Inclusive Language Matters for Users and Organizations  
+## Why inclusive language matters for users and organizations
 
-### For Users:
-- **Improves Accessibility** – Clear and inclusive language ensures that people of all backgrounds, abilities, and language proficiencies can understand and use the content effectively.  
-- **Enhances User Experience** – When users see themselves represented in documentation, they feel respected and valued, leading to better engagement and trust.  
-- **Reduces Misinterpretation** – Biased or unclear language can lead to confusion, especially for non-native speakers or those with different cultural perspectives.  
-- **Supports Diverse Audiences** – Technical documentation is used globally, and inclusive language ensures it remains relevant and effective for a broad range of users.  
+### For users:
+- **Makes content accessible** – Clear, simple language helps everyone understand, including people with different abilities or language skills.  
+- **Creates a better experience** – When users see themselves represented, they feel respected and engaged.  
+- **Reduces confusion** – Biased or unclear words can be misunderstood, especially by non-native speakers.  
+- **Includes a global audience** – Technical documents are used worldwide. Inclusive language makes them useful for more people.  
 
-### For Organizations:
-- **Strengthens Brand Reputation** – Companies that prioritize inclusivity demonstrate social responsibility and gain trust from customers, employees, and stakeholders.  
-- **Increases Market Reach** – Inclusive documentation makes products accessible to a wider audience, including people with disabilities, international users, and underrepresented groups.  
-- **Aligns with DEI Initiatives** – Many organizations have diversity, equity, and inclusion (DEI) commitments. Using inclusive language aligns with these values and creates a more welcoming environment.  
-- **Improves Compliance & Risk Management** – Some industries have legal or ethical guidelines regarding language and accessibility (e.g., WCAG, ADA compliance). Inclusive language helps meet these standards.  
-- **Enhances Employee Engagement** – An inclusive culture extends beyond customers to employees. When organizations embrace inclusive communication, it fosters a more positive and productive workplace.  
+### For organizations:
+- **Builds a good reputation** – Companies that use inclusive language show social responsibility and earn trust.  
+- **Reaches more customers** – Products become accessible to a wider audience, including people with disabilities and international users.  
+- **Aligns with diversity goals** – Many companies focus on diversity, equity, and inclusion (DEI). Inclusive language supports these values.  
+- **Reduces legal risks** – Some industries require inclusive language for accessibility standards like WCAG and ADA compliance.  
+- **Supports employees** – A workplace that values inclusive communication creates a better environment for employees.  
 
-By adopting inclusive language, organizations not only create better user experiences but also strengthen their reputation, expand their market, and ensure compliance with accessibility standards.
+By using inclusive language, organizations improve user experience, strengthen their reputation, and expand their market.
 
-# Core Principles & Examples of Inclusive Language  
 
-## 1. Person-First Language  
-Person-first language emphasizes the individual rather than their condition, disability, or situation.  
+# Core principles & examples of inclusive language  
 
-✅ **Best Practice:** Prioritize the person, not the characteristic.  
-🚫 **Avoid:** Labels that define someone solely by a trait.  
+## 1. Person-first language  
+Focus on the person, not their condition or situation.  
+
+✅ **Do this:** Mention the person before the characteristic.  
+🚫 **Avoid:** Labels that define someone by a trait.  
 
 | Problematic Text | Improved Version |
 |-----------------|----------------|
@@ -35,11 +36,11 @@ Person-first language emphasizes the individual rather than their condition, dis
 
 ---
 
-## 2. Gender-Inclusive Writing  
-Gender-inclusive language avoids assuming gender and includes everyone.  
+## 2. Gender-inclusive writing  
+Avoid gender assumptions and use neutral terms.  
 
-✅ **Best Practice:** Use gender-neutral terms and singular "they" where applicable.  
-🚫 **Avoid:** Gendered terms when not necessary.  
+✅ **Do this:** Use gender-neutral words and "they" as a singular pronoun.  
+🚫 **Avoid:** Gendered words when not necessary.  
 
 | Problematic Text | Improved Version |
 |-----------------|----------------|
@@ -49,10 +50,10 @@ Gender-inclusive language avoids assuming gender and includes everyone.
 
 ---
 
-## 3. Cultural Sensitivity  
+## 3. Cultural sensitivity  
 Cultural sensitivity ensures language respects all backgrounds and avoids terms that may be offensive or exclusive.  
 
-✅ **Best Practice:** Use neutral and globally understandable terminology.  
+✅ **Best practice:** Use neutral, globally understandable terminology.  
 🚫 **Avoid:** Culturally specific idioms, stereotypes, or offensive phrases.  
 
 | Problematic Text | Improved Version |
@@ -63,10 +64,10 @@ Cultural sensitivity ensures language respects all backgrounds and avoids terms 
 
 ---
 
-## 4. Clear, Accessible Language  
-Simple, concise, and jargon-free writing ensures content is understandable for all users, including non-native speakers and those with cognitive disabilities.  
+## 4. Clear, accessible language  
+Use simple and direct language. Avoid complex words and jargon.  
 
-✅ **Best Practice:** Use clear, direct language and avoid unnecessary complexity.  
+✅ **Best practice:** Use clear, direct language and avoid unnecessary complexity.  
 🚫 **Avoid:** Technical jargon and ambiguous phrasing.  
 
 | Problematic Text | Improved Version |
@@ -77,82 +78,80 @@ Simple, concise, and jargon-free writing ensures content is understandable for a
 
 ---
 
-# Implementation Guide  
+# Implementation guide  
 
-## Style Guide Essentials  
-To ensure consistency in inclusive language, organizations should develop or follow an inclusive language style guide. As mentioned before, key elements include:  
+## Style guide essentials  
+To keep writing consistent, use an inclusive language style guide. Key elements include:  
 
-- **Person-first and identity-first language** – Follow best practices for referring to individuals respectfully.  
-- **Gender-neutral terms** – Avoid assuming gender and use inclusive pronouns where appropriate.  
-- **Bias-free terminology** – Replace outdated or offensive terms with inclusive alternatives.  
-- **Clear, simple language** – Ensure documentation is understandable for all users, including non-native speakers and those with disabilities.  
-- **Global considerations** – Avoid region-specific idioms or metaphors that may not translate well internationally.  
+- **Person-first language** – Mention people before their traits.  
+- **Gender-neutral words** – Avoid gendered terms unless necessary.  
+- **Bias-free words** – Replace outdated or offensive terms.  
+- **Simple language** – Use words that are easy to understand.  
+- **Global awareness** – Avoid words that don’t translate well.   
 
-### Example Style Guides:
+### Example style guides:
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/inclusive-documentation)  
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/)  
-- [The Conscious Style Guide](https://consciousstyleguide.com/)  
+- [The Conscious Style Guide](https://consciousstyleguide.com/)
 
 ---
 
-## Review Process and Checklists  
-A structured review process helps identify and correct non-inclusive language in documentation.  
+## Review process and checklists  
 
-### **1. Pre-Writing Phase**
-- Define your audience and their diverse needs.  
-- Follow an inclusive language checklist based on your style guide.  
+### **1. Before writing**
+- Think about your audience and their needs.  
+- Follow an inclusive language checklist.  
 
-### **2. Peer Review & Editing**
-- Have a **diverse review team** to check for bias and clarity.  
-- Use an **inclusive language checklist** to ensure consistency.  
-- Consider **user feedback** to identify areas of improvement.  
+### **2. Peer review & editing**
+- Ask a **diverse group of reviewers** to check for bias.  
+- Use an **inclusive language checklist** for consistency.  
+- Get **user feedback** to improve clarity.  
 
-### **3. Automated & Manual Checks**
-- Use tools to detect non-inclusive language (see "Tools and Resources" section).  
-- Read content aloud to test clarity and accessibility.  
+### **3. Automated & manual checks**
+- Use tools to find biased language (see "Tools" section).  
+- Read content aloud to check clarity.  
 
 ---
 
-## Common Challenges and Solutions  
+## Common challenges and solutions  
 
 | **Challenge** | **Solution** |
 |--------------|-------------|
-| Unconscious bias in language choices | Provide regular training on inclusive writing. |
-| Resistance to change in terminology | Educate stakeholders on the importance of inclusive language. |
-| Lack of standardized guidelines | Adopt or create an internal inclusive style guide. |
-| Difficulty in detecting non-inclusive language | Use automated tools and peer reviews. |
-| Balancing inclusivity with technical accuracy | Focus on clarity while maintaining inclusivity. |
+| Unconscious bias in writing | Train writers on inclusive language. |
+| Resistance to language changes | Explain why inclusive language is important. |
+| No clear guidelines | Follow an inclusive style guide. |
+| Hard to find biased language | Use tools and peer reviews. |
+| Keeping technical accuracy | Make writing clear and inclusive. |
 
 ---
 
-## Tools and Resources  
+## Tools and resources  
 
-### **Automated Tools for Inclusive Language Checks**  
+### **Automated tools for inclusive language checks**  
 - **[Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/editor)** – Flags non-inclusive terms in writing.  
 - **[Google Docs Suggestions](https://workspace.google.com/)** – Provides inclusive language recommendations.  
 - **[alex.js](https://alexjs.com/)** – A free open-source tool to detect biased language.  
 - **[Hemingway Editor](https://hemingwayapp.com/)** – Helps simplify complex writing for better accessibility.  
 
-#### **Training & Educational Resources**  
+#### **Training & educational resources**  
 - [Inclusive Language in UX Writing – Nielsen Norman Group](https://www.nngroup.com/articles/inclusive-language/)  
 - [The Inclusive Language Project](https://inclusivelanguageproject.com/)  
 - [Harvard Inclusive Language Guide](https://diversity.college.harvard.edu/inclusive-language-guide)  
 
 ---
 
-
 # Conclusion  
 
-## Key Takeaways  
-- **Inclusive language improves accessibility, clarity, and user experience** by ensuring content is welcoming and understandable for all audiences.  
-- **Person-first language, gender-neutral terms, cultural sensitivity, and clear communication** are key principles of inclusive writing.  
-- **Consistency is crucial** – following an inclusive style guide helps maintain clarity across all documentation.  
-- **A structured review process** with peer reviews and automated tools can help detect and fix non-inclusive language.  
-- **Challenges like unconscious bias and resistance to change** can be addressed through training, education, and awareness.  
+## Key takeaways  
+- **Inclusive language improves clarity and user experience.**  
+- **Use person-first language, gender-neutral terms, and simple words.**  
+- **Follow an inclusive style guide to keep writing consistent.**  
+- **Review content using peer feedback and tools.**  
+- **Address challenges with training and awareness.**  
 
 ---
 
-## Getting Started Steps  
+## Getting started steps  
 1. **Familiarize yourself with inclusive language principles** – Review best practices from trusted sources.  
 2. **Adopt or create an inclusive style guide** – Follow existing resources like the [Google Developer Style Guide](https://developers.google.com/style/inclusive-documentation) or [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/).  
 3. **Incorporate inclusive language into your writing process** – Use tools like **alex.js** and **Microsoft Editor** to identify non-inclusive terms.  
@@ -161,15 +160,15 @@ A structured review process helps identify and correct non-inclusive language in
 
 ---
 
-## Additional Resources  
+## Additional resources  
 
-### **Inclusive Language Guides**  
+### **Inclusive language guides**  
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/inclusive-documentation)  
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/)  
 - [The Conscious Style Guide](https://consciousstyleguide.com/)  
 - [Harvard Inclusive Language Guide](https://diversity.college.harvard.edu/inclusive-language-guide)  
 
-### **Tools for Inclusive Writing**  
+### **Tools for inclusive writing**  
 - [alex.js](https://alexjs.com/) – Detects biased language.  
 - [Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/editor) – Flags non-inclusive terms.  
 - [Hemingway Editor](https://hemingwayapp.com/) – Helps simplify complex writing.  
